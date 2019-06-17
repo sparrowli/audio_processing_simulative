@@ -1,4 +1,5 @@
-audio_wav = 'samples/or105.wav';
+% audio_wav = 'samples/or105.wav';
+audio_wav = '少年锦时.wav';
 
 info = audioinfo(audio_wav);
 
